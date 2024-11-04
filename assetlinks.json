@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.saman.singlewindow",
+      "sha256_cert_fingerprints": [
+        "AD:83:87:5C:CF:6C:AF:C3:5C:7B:C1:A8:88:2C:78:11:46:28:C2:03:46:B8:E8:2A:34:A9:95:D6:68:6D:18:70"
+      ]
+    }
+  }
+]
